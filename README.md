@@ -2,11 +2,25 @@
   <img src="https://raw.githubusercontent.com/pablobds/pablobds/refs/heads/main/Picsart_25-07-20_05-46-33-109.jpg" width=400 style="display: block; margin: 0 auto"/>
 </p>
 
-# Bem-Vindo(a) Ao meu perfil😊
+# 👋 Oi! Eu sou o Pablo
 
-Oi, Meu nome é Pablo, estudo programação desde 2018/2019, sei o básico de quase tudo especialmente em CyberSecurity, avançado em gambiarra Mobile.
+Estudo programação desde 2018/2019. Tenho conhecimentos sólidos em diversas áreas, com foco especial em:
+
+- Cybersegurança (nível intermediário)
+- Gambiarras Mobile
+- Programação: Conhecimento geral em diversas linguagens(um pouco de cada) e áreas da programação
+
+# Curiosidades
+- Fiz cursos de reparo de celulares
+- Ja participei de CTFs
+- Fiz criações de bots para Telegram, Whatsapp, Discord,Tiktok e outros apps
+- Ja fiz desenvolvendo de plugins para Minecraft(Mobile e Pc)
+- Já desenvolvi aplicativos Android
+- Modificações de apps
+
+
+
 ##
-
 <p align="center">
  <kbd>
     <kbd>Linguagens dominada</kbd>
@@ -44,3 +58,5 @@ Oi, Meu nome é Pablo, estudo programação desde 2018/2019, sei o básico de qu
 - Linux
 - Mobile
 - Windows 
+
+<p align="center"><i>“Curioso por natureza, apaixonado por tecnologia e especialista em dar um jeitinho.”</i></p>
