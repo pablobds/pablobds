@@ -21,7 +21,9 @@ Estudo programação desde 2018/2019. Tenho conhecimentos sólidos em diversas �
 <p align="center" >
 <a href="https://youtu.be/HqtE-nBwM90?si=itvKLRxxuUdjp5Aa"> Link </a>
 </p>
+
 ##
+
 <p align="center">
  <kbd>
     <kbd>Linguagens dominada</kbd>
