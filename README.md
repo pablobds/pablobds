@@ -5,8 +5,6 @@
 # Bem-Vindo(a) Ao meu perfil😊
 
 Oi, Meu nome é Pablo, estudo programação desde 2018/2019, sei o básico de quase tudo especialmente em CyberSecurity, avançado em gambiarra Mobile.
-
-futuramente: Hardwares
 ##
 
 <p align="center">
