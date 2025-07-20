@@ -4,7 +4,7 @@
 
 # 👋 Oi! Eu sou o Pablo
 
-Estudo programação desde 2018/2019. Tenho conhecimentos sólidos em diversas áreas, com foco especial em:
+Estudo programação desde 2015/2018/2019. Tenho conhecimentos sólidos em diversas áreas, com foco especial em:
 
 - Cybersegurança (nível intermediário)
 - Gambiarras Mobile
