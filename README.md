@@ -62,4 +62,8 @@ Estudo programação desde 2015/2018/2019. Tenho conhecimentos sólidos em diver
 - Mobile
 - Windows 
 
+<p align="center">
+<img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="40%"/>
+</p>
+
 <p align="center"><i>“Curioso por natureza, apaixonado por tecnologia e especialista em dar um jeitinho.”</i></p>
