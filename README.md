@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/pablobds/pablobds/refs/heads/main/Picsart_25-07-20_05-46-33-109.jpg" width=400 style="display: block; margin: 0 auto"/>
 </p>
 
-# 👋 Oi! Eu sou o Pablo
+#👋 Oi! Eu sou o Pablo
 
 Estudo programação desde 2018/2019. Tenho conhecimentos sólidos em diversas áreas, com foco especial em:
 
