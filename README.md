@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pablobds/pablobds/refs/heads/main/Picsart_25-07-20_05-46-33-109.jpg" width=400 style="display: block; margin: 0 auto"/>
+</p>
+
 # Bem-Vindo(a) Ao meu perfil😊
 
 Oi, Meu nome é Pablo, estudo programação desde 2018/2019, sei o básico de quase tudo especialmente em CyberSecurity, avançado em gambiarra Mobile.
